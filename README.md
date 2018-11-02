@@ -1,6 +1,4 @@
-GPIO Blank
+First Milestone
 =====
 
-This is the starting application for Chapter 4 of the lab manual. The
-goal is to implement the gpio library from scratch using reads and writes
-to nRF52832 registers.
+The car would move when switch is on and trys to maintain it's balance by moving in the correct direction to avoid tilt at this phase the car moves but was not to able to keep it's balance compeletly.
